@@ -1,2 +1,3 @@
 # hello-world
-Start-up on repositories
+
+Coding for fun.
